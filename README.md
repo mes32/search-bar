@@ -1,8 +1,18 @@
 # Search Bar
 
-Learn about generating spelling autosuggestions.
+Search bar that allows entering names and searching for common grocery items. Suggests a list of probable items as the user types. Built to learn about searching and generating spelling auto-suggestions.
 
 [https://shielded-springs-83524.herokuapp.com](https://shielded-springs-83524.herokuapp.com)
+
+## Technologies Used
+- `Client` - HTML, CSS, JavaScript, Ajax
+- `Server` - Node.js, Express
+
+## Requirements for Development
+- Git
+- Web browser
+- NPM
+- Heroku CLI (optional for easy deployment)
 
 ## Setup and Run
 ```bash
